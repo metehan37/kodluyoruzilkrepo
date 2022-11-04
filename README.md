@@ -1,2 +1,2 @@
 # kodluyoruzilkrepo
-Bu repo [kodluyoruz](https://www.kodluyoruz.com)
+Bu repo [kodluyoruz](https://www.kodluyoruz.org)
