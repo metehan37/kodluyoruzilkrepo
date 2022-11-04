@@ -24,5 +24,5 @@ Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi 
 [MIT](https://opensource.org/licenses/MIT)
 
 ### Resim
-![Resim](https://prnt.sc/X6elPiPp5dxd)
+![Resim](https://github.com/metehan37/kodluyoruzilkrepo/blob/main/Screenshot_1.png)
 
